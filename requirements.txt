@@ -1,4 +1,4 @@
-Pyrogram
+git+https://github.com/subinps/pyrogram@session
 pytgcalls
 python-dotenv
 TgCrypto
